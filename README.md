@@ -25,12 +25,15 @@ Stable-Channel: v0.1.11 (Javascript WebEngine)
 Nighly-Channel: Not avaible
 
 
-The whole thing is **still** in the build phase, so everything is relatively unstable.
+The whole thing is **still** in the build phase, so everything is relatively unstable.  
+
+--
 
 Screenshot - v0.35-beta
 
 ![image](https://user-images.githubusercontent.com/81520713/119238186-52b82400-bb41-11eb-9a13-80baec99fa8d.png)
 
 Screenshot - v0.38-pve.de
+
 ![image](https://user-images.githubusercontent.com/81520713/119999335-ecfce980-bfd1-11eb-8898-d60a9fb501a4.png)
 
