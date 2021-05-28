@@ -19,9 +19,10 @@ To run the Browser, you need:
 
 
 **Current version**  
-Beta-Channel: v0.30 (PyQt5)  
+Beta-Channel: v0.35 (PyQt5)
+Preview-Channel: v0.38-pve.de (PyQt5)
 Stable-Channel: v0.1.11 (Javascript WebEngine)  
-Nighly-Channel: Not avaible :/  
+Nighly-Channel: Not avaible
 
 
 The whole thing is **still** in the build phase, so everything is relatively unstable.
